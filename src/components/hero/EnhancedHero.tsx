@@ -1,5 +1,5 @@
 "use client";
-
+//apoco si stilin
 import { motion } from "framer-motion";
 import { ArrowRight, Sparkles, MessageCircle } from "lucide-react";
 import { HeroCanvas } from "./HeroCanvas";
